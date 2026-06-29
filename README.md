@@ -143,7 +143,7 @@ The Network Request Management System successfully automates the complete lifecy
 
 ## Author
 
-**Name:** NITHISHA
+**Name:** NITHISHA B
 
 **Platform:** ServiceNow Developer Instance
 
